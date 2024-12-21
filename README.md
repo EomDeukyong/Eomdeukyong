@@ -12,4 +12,4 @@
 ![My Skills](https://skillicons.dev/icons?i=nodejs,flask)
 
 # :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emrdyd664@gmail.com)](mailto:emrdyd664@@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emrdyd664@gmail.com)](mailto:emrdyd664@gmail.com)
